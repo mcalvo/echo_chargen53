@@ -1,0 +1,24 @@
+{
+  "name": "CharGen5e",
+  "version": "1.0.0",
+  "description": "A character generator using the charts for D&D Fifth Edition.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "alexa",
+    "skill",
+    "character generator",
+    "d&d"
+  ],
+  "author": "Michael Calvo",
+  "license": "See license in ../LICENSE.txt",
+  "dependencies": {
+    "alexa-sdk": "^1.0.25"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mcalvo/echo_chargen5e"
+  }
+}
